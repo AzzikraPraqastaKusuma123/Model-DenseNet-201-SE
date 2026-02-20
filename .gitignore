@@ -1,0 +1,12 @@
+# Abaikan semua file dan folder
+*
+
+# Kecuali 3 item yang ingin dipush:
+!densenet201_se_standalone_FIX_keras3.ipynb
+!outputs_densenet201_se_standalone/
+!outputs_densenet201_se_standalone/**
+!test_images/
+!test_images/**
+
+# Jangan abaikan .gitignore itu sendiri
+!.gitignore
