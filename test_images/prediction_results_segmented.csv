@@ -1,0 +1,5 @@
+filename,predicted_label,confidence,status
+image.png,brown_spot,0.9351,OK
+image1.png,downy_mildew,0.4108,OK
+image2.png,downy_mildew,0.5854,OK
+image3.png,blast,0.5829,OK
