@@ -1,2 +1,5 @@
 filename,predicted_label,confidence
 image.png,brown_spot,0.9395
+image1.png,downy_mildew,0.418
+image2.png,tungro,0.5028
+image3.png,blast,0.5811

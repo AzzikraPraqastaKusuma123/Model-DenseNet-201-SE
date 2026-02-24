@@ -1,0 +1,5 @@
+filename,predicted_label,confidence,status
+image.png,blast,0.5514,OK
+image1.png,normal,0.5153,OK
+image2.png,blast,0.5514,OK
+image3.png,blast,0.7168,OK
